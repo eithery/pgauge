@@ -1,3 +1,0 @@
-#!/bin/bash
-BINPATH=`dirname $0`
-python3 "$BINPATH/../lib/gauge/__main__.py" $@
